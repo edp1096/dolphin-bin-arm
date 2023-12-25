@@ -7,5 +7,7 @@ Dolphin precompiled bins
 ## rpi5
 ```sh
 sudo apt update
+
+# libavformat.so
 sudo apt-get install libavformat-dev
 ```
