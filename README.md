@@ -11,3 +11,9 @@ sudo apt update
 # libavformat.so
 sudo apt-get install libavformat-dev
 ```
+
+## opi5p
+```sh
+sudo apt update
+sudo apt install qt6-base-dev libhidapi-hidraw0 libmbedtls14 libsfml-dev
+```
