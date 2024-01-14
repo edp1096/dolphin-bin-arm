@@ -1,6 +1,6 @@
 Dolphin precompiled bins
 
-* commit target : [e9fa335](https://github.com/dolphin-emu/dolphin/tree/e9fa335fbe07f89176e34d05a07b4e2437645d95)
+* target commit : [e9fa335](https://github.com/dolphin-emu/dolphin/tree/e9fa335fbe07f89176e34d05a07b4e2437645d95)
 
 ## opi5p
 ```sh
